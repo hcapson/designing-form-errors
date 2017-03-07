@@ -1,5 +1,5 @@
 html {
-  font-family:sans-serif;
+  font-family: sans-serif;
 }
 
 .flag-optional {
@@ -24,6 +24,6 @@ html {
 
 .is-validated > .error-message:first-child,
 .is-validated input:invalid + .error-message,
-.is-validated input:invaild + label + .error-message {
+.is-validated input:invalid + label + .error-message {
   display: block;
 }
